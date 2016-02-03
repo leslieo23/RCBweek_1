@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+}
+header{background-color:white;
+padding:24px;
+text-align:left;
+float:left;
+width:25%;}
+
+.section1{background-color: #666;
+	padding:24px;
+	float:left;
+	text-align:justify;
+	width:10%;
+
+}
+.section2{background-color: #888;
+padding:24px;
+float:left;
+text-align:center;
+width:25%px;}
+.section3{background-color:#666;
+padding:24px;
+float:left;
+width:25%px;
+text-align:center;}
+.section4{background-color:#eee;
+padding:24px;
+width:25%px;
+float:left;
+text-align:center;}
+aside{float:right;}
